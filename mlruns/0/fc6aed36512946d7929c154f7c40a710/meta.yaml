@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tiger/ml-flow/mlruns/0/fc6aed36512946d7929c154f7c40a710/artifacts
+end_time: 1702881033734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc6aed36512946d7929c154f7c40a710
+run_name: unruly-owl-149
+run_uuid: fc6aed36512946d7929c154f7c40a710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702881033417
+status: 3
+tags: []
+user_id: tiger

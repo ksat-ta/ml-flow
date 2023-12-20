@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tiger/ml-flow/mlruns/0/617d155df2314d67b966ec0b4a7ec567/artifacts
+end_time: 1702879083374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 617d155df2314d67b966ec0b4a7ec567
+run_name: glamorous-moth-597
+run_uuid: 617d155df2314d67b966ec0b4a7ec567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702879083056
+status: 3
+tags: []
+user_id: tiger

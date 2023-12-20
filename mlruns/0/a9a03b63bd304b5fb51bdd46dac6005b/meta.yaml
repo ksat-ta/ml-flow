@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tiger/ml-flow/mlruns/0/a9a03b63bd304b5fb51bdd46dac6005b/artifacts
+end_time: 1702880034000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9a03b63bd304b5fb51bdd46dac6005b
+run_name: loud-seal-633
+run_uuid: a9a03b63bd304b5fb51bdd46dac6005b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702880033689
+status: 3
+tags: []
+user_id: tiger

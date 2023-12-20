@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tiger/ml-flow/mlruns/0/f2dc904816b546c0a9be6792b0e084be/artifacts
+end_time: 1702879077884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2dc904816b546c0a9be6792b0e084be
+run_name: fortunate-lamb-634
+run_uuid: f2dc904816b546c0a9be6792b0e084be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702879077571
+status: 3
+tags: []
+user_id: tiger

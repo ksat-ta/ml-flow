@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tiger/ml-flow/mlruns/0/868610a694484fc18a75ef68349e9f6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 868610a694484fc18a75ef68349e9f6a
+run_name: serious-foal-607
+run_uuid: 868610a694484fc18a75ef68349e9f6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702880110900
+status: 1
+tags: []
+user_id: tiger
